@@ -10,6 +10,10 @@ I am applying analysis to company (Olist) and carefully examining registered cus
   * These merchants are able to sell their products through Olist Store and ship them directly to customers using Olist logistics partners 
 
 -----
+# `Data Schema`
+Data is divided in multiple datasets for better understanding and organization.Refer to following data schema helps a ton:
+
+-----
 `Steps to take:`
 1. From the data-set, I extract Olist best customers through forecasting their future purchases
 2. Then analyze their historical purchasing paths, infer their probability of leaving and generalize Olist customers via RF Matrices
